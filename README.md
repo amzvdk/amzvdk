@@ -7,7 +7,7 @@
 
 
 - 📫 Let's connect [![LinkedIn Badge](https://img.shields.io/badge/-@romanpiatnichuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-piatnichuk-418297200/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:r.piatnichuk@gmail.com) <a href="https://t.me/amzvdk" target="_blank">
-  <img src="https://telegram.org/img/t_logo.png" alt="Join our Telegram group" width="100" height="100">
+  <img src="https://telegram.org/img/t_logo.png" alt="Join our Telegram group" width="30" height="30">
 </a>
 
 ---
