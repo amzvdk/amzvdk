@@ -32,7 +32,7 @@
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/1ddb829eadd69575898bcb8eaf9d49cf9a7cffa159c1f82d2e954da19a271371/68747470733a2f2f757877696e672e636f6d2f77702d636f6e74656e742f7468656d65732f757877696e672f646f776e6c6f61642f6272616e64732d616e642d736f6369616c2d6d656469612f706f73746d616e2d69636f6e2e706e67" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
