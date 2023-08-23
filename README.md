@@ -11,10 +11,10 @@
 <p>
 <a href="https://www.linkedin.com/in/roman-piatnichuk-418297200/" target="_blank">
   <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="My LinkedIn" width="40" height="40">
-</a> 
+</a> &nbsp
 <a href="https://t.me/amzvdk" target="_blank">
   <img src="https://telegram.org/img/t_logo.png" alt="Message me on Telegram" width="40" height="40">
-</a>
+</a>&nbsp
 <a href="mailto:r.piatnichuk@gmail.com" target="_blank">
   <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Contact via Gmail" width="40" height="40">
 </a> 
