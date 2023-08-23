@@ -6,6 +6,16 @@
 ### 👨‍💻 Here my <a href="">resume</a>
 
 ---
+### Test Artifacts 🐞
+- Webstore Testing
+- REST API Testing and SOAP API Testing with Postman
+- My SQL 
+- Mongo DB
+- Android App Testing
+- Traffic Analysis and Data Change with Charles Proxy
+- Bash commands
+- Git
+---
 
 ### 📫 Let's connect 
 <p>
