@@ -5,7 +5,7 @@
 ### 👨‍💻 Here my <a href="">resume</a>
 
 
-- 📫 Let's connect [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-piatnichuk-418297200/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:r.piatnichuk@gmail.com)
+- 📫 Let's connect [![LinkedIn Badge](https://img.shields.io/badge/-@romanpiatnichuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-piatnichuk-418297200/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:r.piatnichuk@gmail.com)
 
 ---
 ## Tools I use 🛠️🔍💻:
