@@ -73,7 +73,7 @@
 
  ### 👨‍🎓 Complited courses:
 
-| Курсы                                                           | Дата              |
+| Course                                                           | Date             |
 | ----------------------------------------------------------------| :---------------: |
 | <a href="https://www.artsiomrusau.com/qa-from-scratch#tariffs">Functional software testing by Artsiom Rusau</a> / <a href"">Certificate</a>                          | 06/2023 - 09/2023 |
 
