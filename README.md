@@ -13,7 +13,7 @@
 - <a href="https://github.com/amzvdk/mongodb">Mongo DB</a>
 - <a href="https://github.com/amzvdk/androidapptest">Android App Testing</a>
 - <a href="https://github.com/amzvdk/charlesproxy">Traffic Analysis and Data Change with Charles Proxy</a>
-- <a href="https://github.com/amzvdk/bash">Bash commands</a>
+- <a href="https://github.com/amzvdk/bash">Bash</a>
 - <a href="https://github.com/amzvdk/git">Git</a>
 ---
 
