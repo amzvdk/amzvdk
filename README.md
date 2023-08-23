@@ -19,6 +19,7 @@
   <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Contact via Gmail" width="40" height="40">
 </a> 
 </p>
+
 ---
 
 ## Tools I use 🛠️🔍💻:
