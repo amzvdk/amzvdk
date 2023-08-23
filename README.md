@@ -8,13 +8,13 @@
 
 - 📫 Let's connect 
 <a href="https://www.linkedin.com/in/roman-piatnichuk-418297200/" target="_blank">
-  <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="My LinkedIn" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="My LinkedIn" width="40" height="40">
 </a> 
 <a href="https://t.me/amzvdk" target="_blank">
-  <img src="https://telegram.org/img/t_logo.png" alt="Message me on Telegram" width="50" height="50">
+  <img src="https://telegram.org/img/t_logo.png" alt="Message me on Telegram" width="40" height="40">
 </a>
 <a href="mailto:r.piatnichuk@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Contact via Gmail" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Contact via Gmail" width="40" height="40">
 </a> 
 
 ---
