@@ -1,5 +1,5 @@
 # 👋 Hi there!
- - I'm Roman, a passionate Quality Assurance Engineer with a love for all things testing and quality. 🧪🔍 I'm thrilled to share my GitHub portfolio, showcasing projects that highlight my skills and dedication to ensuring top-notch software. 💻
+ <p>I'm Roman, a passionate Quality Assurance Engineer with a love for all things testing and quality. 🧪🔍 I'm thrilled to share my GitHub portfolio, showcasing projects that highlight my skills and dedication to ensuring top-notch software. 💻</p>
 ---
 
 ### 👨‍💻 Here my <a href="">resume</a>
