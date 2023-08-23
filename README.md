@@ -6,9 +6,16 @@
 ### 👨‍💻 Here my <a href="">resume</a>
 
 
-- 📫 Let's connect [![LinkedIn Badge](https://img.shields.io/badge/-@romanpiatnichuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-piatnichuk-418297200/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:r.piatnichuk@gmail.com) <a href="https://t.me/amzvdk" target="_blank">
-  <img src="https://telegram.org/img/t_logo.png" alt="Join our Telegram group" width="30" height="30">
+- 📫 Let's connect 
+<a href="https://www.linkedin.com/in/roman-piatnichuk-418297200/" target="_blank">
+  <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="My LinkedIn" width="50" height="50">
+</a> 
+<a href="https://t.me/amzvdk" target="_blank">
+  <img src="https://telegram.org/img/t_logo.png" alt="Message me on Telegram" width="50" height="50">
 </a>
+<a href="mailto:r.piatnichuk@gmail.com" target="_blank">
+  <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Contact via Gmail" width="50" height="50">
+</a> 
 
 ---
 ## Tools I use 🛠️🔍💻:
