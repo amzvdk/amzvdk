@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 Here my <a href="">resume</a>
+### 👨‍💻 Here my <a href="https://drive.google.com/file/d/1Wu63EydmZl9ggXRRqXP3VnNioltV2Rls/view?usp=sharing">resume</a>
 
 ---
 ### Test Artifacts 🐞
@@ -99,7 +99,7 @@
 
 | Course                                                           | Date             |
 | ----------------------------------------------------------------| :---------------: |
-| <a href="https://www.artsiomrusau.com/qa-from-scratch#tariffs">Functional software testing by Artsiom Rusau</a> / <a href="">Certificate</a>                          | 06/2023 - 09/2023 |
+| <a href="https://artsiomrusau.com/qa-from-scratch">Functional software testing by Artsiom Rusau</a> / <a href="">Certificate</a>                          | 06/2023 - 09/2023 |
 
 
 
