@@ -19,7 +19,7 @@
 
 ### 📫 Let's connect 
 <p>
-<a href="https://www.linkedin.com/in/roman-piatnichuk-418297200/" target="_blank">
+<a href="https://www.linkedin.com/in/rpiatnichuk/" target="_blank">
   <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="My LinkedIn" width="40" height="40">
 </a> &nbsp
 <a href="https://t.me/amzvdk" target="_blank">
