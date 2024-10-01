@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 Here my <a href="https://drive.google.com/file/d/1Qc7PUL9gPUL7VnNUtz5I5qajYGOznhKZ/view?usp=sharing">resume</a>
+
 
 ---
 ### Test Artifacts 🐞
